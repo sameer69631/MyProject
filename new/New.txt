@@ -1,0 +1,19 @@
+Ans-1:In java String is a collection of characters enclosed in double codes Ex:- "Aa1@#"
+
+Ans-2: There are two types of String in java 
+      (1)-Mutable  String
+      (2)-Immutable String
+
+Ans-3: In four ways we can create String object in java
+       1-without using new kwyword  Ex:-String s1 = "sameer";
+       2-By using new keyword   Ex:-String s1 = new String("sameer");
+       3-By using StringBuffer  Ex:-StringBuffer s1 = new StringBuffer("sameer");
+       4-By using StringBuilder  Ex:- StringBuilder s1 = new StringBuilder("sameer");
+
+Ans-4: String Constant Pool is a memory location in heap area, The String objects which are created by without using new keyword 
+       are stored in String Constant Pool
+
+Ans-5: Mutable objects are the objects which can be changed after creating
+       Immutable objects are the objects are the objects which cannot be changed after creating
+
+Ans-6: String Constant Pool is located in Heap Area.
